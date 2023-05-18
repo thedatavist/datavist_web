@@ -11,6 +11,11 @@
       "image": "images/social/github.svg"
     },
     {
+      "name": "tableau",
+      "url": "https://public.tableau.com/app/profile/darragh.murray",
+      "image": "images/social/tableau.svg"
+    },
+    {
       "name": "linkedin",
       "url": "https://www.linkedin.com",
       "image": "images/social/linkedin.svg"
