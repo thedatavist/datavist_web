@@ -1,7 +1,7 @@
 baseURL: /
 languageCode: en-us
 theme: hugo-winston-theme
-title: Hugo Winston Theme
+title: The Datavist
 paginate: 3
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
